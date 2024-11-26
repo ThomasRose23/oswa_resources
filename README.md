@@ -3,4 +3,4 @@
 # OSWA Resources
 
 # Syllabus
-[SQL Injection](/SQL-Injection)
+[SQL Injection](/syllabus/sql-injection)
