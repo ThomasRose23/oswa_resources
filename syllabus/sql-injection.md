@@ -1,6 +1,6 @@
 # SQL Injection
 
-### Traiing Resources
+### Training Resources
 *Free*
 
 
