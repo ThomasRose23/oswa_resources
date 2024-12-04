@@ -2,5 +2,5 @@
 
 # OSWA Resources
 
-# Modules
-[SQL Injection](/modules/sql-injection)
+### Modules
+[SQL Injection](/modules/sql_injection)
