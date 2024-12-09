@@ -7,8 +7,6 @@
 #### Courses
 *Free*
 
-# Test
-
 *Paid*
 - [SQL Injection Fundamentals](https://academy.hackthebox.com/course/preview/sql-injection-fundamentals)
 - [Blind SQL Injection](https://academy.hackthebox.com/course/preview/blind-sql-injection)
@@ -22,6 +20,69 @@
 - Zipping
 - Zeta
 - Writeup
+- Whiskeyrs
+- Watch
+- Validation
+- Unrested
+- Unattended
+- Trick
+- Toolbox
+- TechPot
+- Stocker
+- Spider
+- Socket
+- Soccer
+- Sneaky
+- Shopper
+- Shared
+- Seventeed
+- SecNotes
+- Rental
+- RedCross
+- Rabit
+- Proper
+- Press2Inject
+- Phenix
+- PC
+- Pandora
+- Oz
+- OverGraph
+- NodeBlog
+- Nightmare
+- Multimaster
+- Minitors
+- Monitored
+- MetaTwo
+- Mango
+- Magic
+- Library
+- Jupiter
+- Jarvis
+- Invalidated
+- Intentions
+- Intense
+- Holiday
+- GoodGames
+- Giddy
+- Gallery
+- Formula
+- FluJab
+- Fatty
+- Falafel
+- Faculty
+- Europa
+- Enterprise
+- EarlyAccess
+- Download
+- Control
+- Clicker
+- Charon
+- Cache
+- Book
+- Better
+- BankRobber
+- Altered
+- AI
 
 ### Other Resources
 
