@@ -7,6 +7,7 @@
 #### Courses
 *Free*
 
+# Test
 
 *Paid*
 - [SQL Injection Fundamentals](https://academy.hackthebox.com/course/preview/sql-injection-fundamentals)
