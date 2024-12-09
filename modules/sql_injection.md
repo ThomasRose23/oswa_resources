@@ -3,6 +3,7 @@
 # SQL Injection
 
 ### Training Resources
+---
 #### Courses
 *Free*
 
