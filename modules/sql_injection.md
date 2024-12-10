@@ -99,9 +99,13 @@
 **PT Guides**
 - [HackTricks SQLi](https://book.hacktricks.xyz/pentesting-web/sql-injection)
 - [Sushant OSCP Guide SQLi](https://sushant747.gitbooks.io/total-oscp-guide/content/sql-injections.html)
+- [My Guide - SQLi](https://tom23rose.gitbook.io/testingmethodology/web-testing/exploitation/injection-attacks/sql-injection)
 #
 **Bug Bounty Write Ups**
 - [Collection of Write Ups](https://github.com/alexbieber/Bug_Bounty_writeups#sql-injectionsqli)
+#
+**Methodologies**
+[OWASP SQL Injection Methodology](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection)
 #
 **[Arsenal](https://github.com/Orange-Cyberdefense/arsenal/tree/master) Tool Cheatsheets**
 - [Master Arsenal Cheatsheet - SQLMap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/arsenal/data/cheats/SQL%20Injection/sqlmap.md)
