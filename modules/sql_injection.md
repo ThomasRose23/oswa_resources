@@ -24,8 +24,11 @@
 
 #### HTB Machines
 *These machines are tagged as containing SQL Injection by HTB, the boxes in bold have been verified to contain SQL Injection*
-- Zipping
-- Zeta
+
+|| Machine Name || Difficulty || Verified ||
+|| -- || -- || -- ||
+| Zipping | | |
+| Zeta | | |
 - Writeup
 - Whiskeyrs
 - Watch
