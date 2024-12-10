@@ -27,8 +27,10 @@
 
 || Machine Name || Difficulty || Verified ||
 || -- || -- || -- ||
-| Zipping | | |
-| Zeta | | |
+| Zipping | x | x |
+| Zeta | x | x |
+
+
 - Writeup
 - Whiskeyrs
 - Watch
