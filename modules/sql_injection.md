@@ -111,6 +111,9 @@
 - [Master Arsenal Cheatsheet - SQLMap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/arsenal/data/cheats/SQL%20Injection/sqlmap.md)
 - [Modified Arsenal Cheatsheet - SQL Injection](https://github.com/ThomasRose23/arsenal_cheatsheets/blob/main/webapp/sql-injection)
 #
+**Wordlists**
+[SecLists SQLi](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing/SQLi)
+#
 **SQL Prevention**
 - [OWASP SQL Injection Prevention](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
 #
