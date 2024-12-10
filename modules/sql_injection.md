@@ -8,7 +8,7 @@
 *Free*
 - [PortSwigger Academy - SQLi](https://portswigger.net/web-security/sql-injection)
 - [PortSwigger Academy - NoSQLi](https://portswigger.net/web-security/nosql-injection)
-- 
+
 *Paid*
 - [HTB - SQL Injection Fundamentals](https://academy.hackthebox.com/course/preview/sql-injection-fundamentals)
 - [HTB - Blind SQL Injection](https://academy.hackthebox.com/course/preview/blind-sql-injection)
