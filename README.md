@@ -4,4 +4,4 @@
 *This repo is a work in progress. Resources are being added continously as I study for the OSWA exam.*
 
 ### Modules
-[SQL Injection](/modules/sql_injection.md)
+- [SQL Injection](/modules/sql_injection.md)
