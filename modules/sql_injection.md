@@ -105,15 +105,14 @@
 - [Collection of Write Ups](https://github.com/alexbieber/Bug_Bounty_writeups#sql-injectionsqli)
 #
 **Methodologies**
-[OWASP SQL Injection Methodology](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection)
+- [OWASP SQL Injection Methodology](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection)
 #
 **[Arsenal](https://github.com/Orange-Cyberdefense/arsenal/tree/master) Tool Cheatsheets**
 - [Master Arsenal Cheatsheet - SQLMap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/arsenal/data/cheats/SQL%20Injection/sqlmap.md)
 - [Modified Arsenal Cheatsheet - SQL Injection](https://github.com/ThomasRose23/arsenal_cheatsheets/blob/main/webapp/sql-injection)
 #
 **Wordlists**
-
-[SecLists SQLi](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing/SQLi)
+- [SecLists SQLi](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing/SQLi)
 #
 **SQL Prevention**
 - [OWASP SQL Injection Prevention](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
