@@ -30,14 +30,16 @@
 -
 #
 **Methodologies**
-- 
+- [OWASP Methodology - LFI](https://wiki.owasp.org/index.php/Testing_for_Local_File_Inclusion)
 #
 **[Arsenal](https://github.com/Orange-Cyberdefense/arsenal/tree/master) Tool Cheatsheets**
 - 
 #
 **Wordlists**
-- 
+- [PATT - LFI Wordlist](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Intruders/JHADDIX_LFI.txt)
+- [PATT - Linux Files of Interest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Intruders/Linux-files.txt)
+- [PATT - Windows Files of Interest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Intruders/LFI-WindowsFileCheck.txt)
 #
-**SQL Prevention**
+**Path Traversal Prevention**
 - 
 #
