@@ -90,6 +90,9 @@
 - AI
 
 ### Other Resources
+---
+--
+-
 **PT Guides**
 - [HackTricks SQLi](https://book.hacktricks.xyz/pentesting-web/sql-injection)
 - [Sushant OSCP Guide SQLi](https://sushant747.gitbooks.io/total-oscp-guide/content/sql-injections.html)
