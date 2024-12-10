@@ -8,12 +8,17 @@
 *Free*
 
 *Paid*
-- [SQL Injection Fundamentals](https://academy.hackthebox.com/course/preview/sql-injection-fundamentals)
-- [Blind SQL Injection](https://academy.hackthebox.com/course/preview/blind-sql-injection)
-- [Advanced SQL Injections](https://academy.hackthebox.com/course/preview/advanced-sql-injections)
-- [MSSQL, Exchange, and SCCM Attacks](https://academy.hackthebox.com/course/preview/mssql-exchange-and-sccm-attacks)
-- [Introduction to NoSQL Injection](https://academy.hackthebox.com/course/preview/introduction-to-nosql-injection)
-- [SQLMap Essentials](https://academy.hackthebox.com/course/preview/sqlmap-essentials) - Now allowed in the exam but good to know.
+- [HTB - SQL Injection Fundamentals](https://academy.hackthebox.com/course/preview/sql-injection-fundamentals)
+- [HTB - Blind SQL Injection](https://academy.hackthebox.com/course/preview/blind-sql-injection)
+- [HTB - Advanced SQL Injections](https://academy.hackthebox.com/course/preview/advanced-sql-injections)
+- [HTB - MSSQL, Exchange, and SCCM Attacks](https://academy.hackthebox.com/course/preview/mssql-exchange-and-sccm-attacks)
+- [HTB - Introduction to NoSQL Injection](https://academy.hackthebox.com/course/preview/introduction-to-nosql-injection)
+- [HTB - SQLMap Essentials](https://academy.hackthebox.com/course/preview/sqlmap-essentials) - Not allowed in the exam but good to know.
+- [THM - SQL Fundamentals](https://tryhackme.com/r/room/sqlfundamentals)
+- [THM - SQL Injection](https://tryhackme.com/r/room/sqlinjectionlm)
+- [THM - Advanced SQL Injection](https://tryhackme.com/r/room/advancedsqlinjection)
+- [THM - SQLMap: The Basics](https://tryhackme.com/r/room/sqlmapthebasics) - Not allowed in the exam but good to know.
+- [THM - SQL Injection Lab](https://tryhackme.com/r/room/sqlilab)
 
 #### HTB Machines
 *These machines are tagged as containing SQL Injection by HTB, the boxes in bold have been verified to contain SQL Injection*
