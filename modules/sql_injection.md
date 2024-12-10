@@ -40,7 +40,7 @@
 | Press2Inject | Easy | No |
 | PC | Easy | No |
 | Invalidated | Easy | No |
-| Pandora Easy | No |
+| Pandora | Easy | No |
 | NodeBlog | Easy | No |
 | MetaTwo | Easy | No |
 | Library | Easy | No |
