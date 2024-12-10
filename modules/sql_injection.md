@@ -23,78 +23,76 @@
 #
 
 #### HTB Machines
-*These machines are tagged as containing SQL Injection by HTB, the boxes in bold have been verified to contain SQL Injection*
+*These machines are tagged as containing SQL Injection by HTB, the difficulty refers to the box as a whole and not necessarily the SQL Injection element.*
 
-| Machine Name | Difficulty | Verified |
+| Machine Name | Difficulty | Verified SQLi |
 | -- | -- | -- |
-| Zipping | x | x |
-| Zeta | x | x |
-
-
-- Writeup
-- Whiskeyrs
-- Watch
-- Validation
-- Unrested
-- Unattended
-- Trick
-- Toolbox
-- TechPot
-- Stocker
-- Spider
-- Socket
-- Soccer
-- Sneaky
-- Shopper
-- Shared
-- Seventeed
-- SecNotes
-- Rental
-- RedCross
-- Rabit
-- Proper
-- Press2Inject
-- Phenix
-- PC
-- Pandora
-- Oz
-- OverGraph
-- NodeBlog
-- Nightmare
-- Multimaster
-- Minitors
-- Monitored
-- MetaTwo
-- Mango
-- Magic
-- Library
-- Jupiter
-- Jarvis
-- Invalidated
-- Intentions
-- Intense
-- Holiday
-- GoodGames
-- Giddy
-- Gallery
-- Formula
-- FluJab
-- Fatty
-- Falafel
-- Faculty
-- Europa
-- Enterprise
-- EarlyAccess
-- Download
-- Control
-- Clicker
-- Charon
-- Cache
-- Book
-- Better
-- BankRobber
-- Altered
-- AI
+| Writeup | Easy | No |
+| Whiskers | Easy | No |
+| Validation | Easy | No |
+| Trick | Easy | No |
+| Toolbox | Easy | No |
+| Better | Easy | No |
+| Stocker | Easy | No |
+| Soccer | Easy | No |
+| Shopper | Easy | No |
+| Rental | Easy | No |
+| Press2Inject | Easy | No |
+| PC | Easy | No |
+| Invalidated | Easy | No |
+| Pandora Easy | No |
+| NodeBlog | Easy | No |
+| MetaTwo | Easy | No |
+| Library | Easy | No |
+| Jupiter | Medium | No |
+| Jarvis | Medium | No |
+| GoodGames | Medium | No |
+| Monitored | Medium | No |
+| Mango | Medium | No |
+| Magic | Medium | No |
+| Shared | Medium | No |
+| SecNotes | Medium | No |
+| Giddy | Medium | No |
+| Sneaky | Medium | No |
+| Gallery | Medium | No |
+| Faculty | Medium | No |
+| TechPot | Medium | No |
+| RedCross | Medium | No |
+| Socket | Medium | No |
+| Europa | Medium | No |
+| Enterprise | Medium | No |
+| Clicker | Medium | No |
+| Cache | Medium | No |
+| Book | Medium | No |
+| Unrested | Medium | No |
+| Unattended | Medium | No |
+| AI | Medium | No |
+| Zipping | Medium | No |
+| Altered | Hard | No |
+| Proper | Hard | No |
+| Charon | Hard | No |
+| Zeta | Hard | No |
+| Pheonix | Hard | No |
+| Spider | Hard | No |
+| Download | Hard | No |
+| Control | Hard | No |
+| EarlyAccess | Hard | No |
+| Formula | Hard | No |
+| Seventeed | Hard | No |
+| OverGraph | Hard | No |
+| Oz | Hard | No |
+| FluJab | Hard | No |
+| Watch | Hard | No |
+| Falafel | Hard | No |
+| Intentions | Hard | No |
+| Intense | Hard | No |
+| Holiday | Hard | No |
+| Monitors | Hard | No |
+| Nightmare | Insane | No |
+| Multimaster | Insane | No |
+| BankRobber | Insane | No |
+| Fatty | Insane | No |
+| Rabit | Insane | No |
 
 ### Other Resources
 ---
