@@ -25,8 +25,8 @@
 #### HTB Machines
 *These machines are tagged as containing SQL Injection by HTB, the boxes in bold have been verified to contain SQL Injection*
 
-|| Machine Name || Difficulty || Verified ||
-|| -- || -- || -- ||
+| Machine Name | Difficulty | Verified |
+| -- | -- | -- |
 | Zipping | x | x |
 | Zeta | x | x |
 
