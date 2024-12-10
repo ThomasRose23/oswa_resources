@@ -6,6 +6,7 @@
 ---
 
 **Courses**
+
 *Free*
 
 *Paid*
