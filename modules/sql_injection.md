@@ -112,6 +112,7 @@
 - [Modified Arsenal Cheatsheet - SQL Injection](https://github.com/ThomasRose23/arsenal_cheatsheets/blob/main/webapp/sql-injection)
 #
 **Wordlists**
+
 [SecLists SQLi](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing/SQLi)
 #
 **SQL Prevention**
