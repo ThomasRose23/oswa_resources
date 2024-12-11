@@ -42,14 +42,8 @@
 - [OWASP Methodology - Directory Traversal FIle Include](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/05-Authorization_Testing/01-Testing_Directory_Traversal_File_Include)
 - [OWASP Wiki - LFI](https://wiki.owasp.org/index.php/Testing_for_Local_File_Inclusion)
 #
-**[Arsenal](https://github.com/Orange-Cyberdefense/arsenal/tree/master) Tool Cheatsheets**
-- 
-#
 **Wordlists**
 - [PATT - Collection of LFI Wordlist]([https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Intruders/JHADDIX_LFI.txt](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing/LFI))
 - [PATT - Linux Files of Interest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Intruders/Linux-files.txt)
 - [PATT - Windows Files of Interest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Intruders/LFI-WindowsFileCheck.txt)
-#
-**Path Traversal Prevention**
-- 
 #
