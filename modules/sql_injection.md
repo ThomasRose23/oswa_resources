@@ -102,6 +102,7 @@
 - [HackTricks SQLi](https://book.hacktricks.xyz/pentesting-web/sql-injection)
 - [Sushant OSCP Guide SQLi](https://sushant747.gitbooks.io/total-oscp-guide/content/sql-injections.html)
 - [My Guide - SQLi](https://tom23rose.gitbook.io/testingmethodology/web-testing/exploitation/injection-attacks/sql-injection)
+- [The Hacker Recipes - SQL Injection](https://www.thehacker.recipes/web/inputs/sqli#sql-injection)
 #
 **Bug Bounty Write Ups**
 - [Collection of Write Ups](https://github.com/alexbieber/Bug_Bounty_writeups#sql-injectionsqli)
