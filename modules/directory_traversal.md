@@ -36,7 +36,7 @@
 - 
 #
 **Wordlists**
-- [PATT - LFI Wordlist](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Intruders/JHADDIX_LFI.txt)
+- [PATT - Collection of LFI Wordlist]([https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Intruders/JHADDIX_LFI.txt](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing/LFI))
 - [PATT - Linux Files of Interest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Intruders/Linux-files.txt)
 - [PATT - Windows Files of Interest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Intruders/LFI-WindowsFileCheck.txt)
 #
