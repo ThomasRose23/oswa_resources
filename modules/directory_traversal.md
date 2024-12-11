@@ -29,7 +29,7 @@
 **PT Guides**
 - [HackTricks - File Inclusion](https://book.hacktricks.xyz/pentesting-web/file-inclusion)
 - [Sushant OSCP Guide - LFI](https://sushant747.gitbooks.io/total-oscp-guide/content/local_file_inclusion.html)
-- [Sushant OSCP Guide - RFI](https://sushant747.gitbooks.io/total-oscp-guide/content/remote_file_inclusion.html
+- [Sushant OSCP Guide - RFI](https://sushant747.gitbooks.io/total-oscp-guide/content/remote_file_inclusion.html)
 - [My Guide Path Manipulation](https://tom23rose.gitbook.io/testingmethodology/web-testing/exploitation/path-manipulation)
 - [The Hacker Recipes - Directory Traversal](https://www.thehacker.recipes/web/inputs/directory-traversal#%F0%9F%9B%A0%EF%B8%8F-directory-traversal)
 - [The Hacker Recipes - File Inclusion](https://www.thehacker.recipes/web/inputs/file-inclusion/#file-inclusion)
