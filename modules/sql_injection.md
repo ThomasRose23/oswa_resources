@@ -29,7 +29,7 @@
 
 | Machine Name | Difficulty | Verified SQLi | WriteUp | Comments |
 | -- | -- | -- | -- | -- |
-| Writeup | Easy | No |  |  | 
+| Writeup | Easy | Yes | [My Writeup](https://github.com/ThomasRose23/htb_writeups/blob/main/boxes/writeup.md) | Exploits SQL using a known exploit. No SQL knowledge needed. | 
 | Whiskers | Easy | No |
 | Validation | Easy | No |
 | Trick | Easy | No |
