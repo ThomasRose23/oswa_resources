@@ -27,9 +27,9 @@
 #### HTB Machines
 *These machines are tagged as containing SQL Injection by HTB, the difficulty refers to the box as a whole and not necessarily the SQL Injection element.*
 
-| Machine Name | Difficulty | Verified SQLi |
-| -- | -- | -- |
-| Writeup | Easy | No |
+| Machine Name | Difficulty | Verified SQLi | WriteUp | Comments |
+| -- | -- | -- | -- | -- |
+| Writeup | Easy | No |  |  | 
 | Whiskers | Easy | No |
 | Validation | Easy | No |
 | Trick | Easy | No |
