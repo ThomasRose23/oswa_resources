@@ -5,3 +5,4 @@
 
 ### Modules
 - [SQL Injection](/modules/sql_injection.md)
+- [Path Traversal](/modules/path_traversal.md)
