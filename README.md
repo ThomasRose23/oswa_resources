@@ -6,3 +6,4 @@
 ### Modules
 - [SQL Injection](/modules/sql_injection.md)
 - [Directory Traversal](/modules/directory_traversal.md)
+- [XXE](/modules/XXE.md)
