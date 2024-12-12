@@ -21,61 +21,21 @@
 
 | Machine Name | Difficulty | Verified Directory Traversal | WriteUp | Comments |
 | -- | -- | -- | -- | -- |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| BountyHunter | Easy | No | | |
+| RedPanda | Easy | No | | |
+| NodeBlog | Easy | No | | |
+| MetaTwo | Easy | No | | |
+| Label | Easy | No | | |
+| DevOps | Medium | No | | |
+| Clicker | Medium | No | | |
+| Aragog | Medium | No | | |
+| Pollution | Hard | No | | |
+| Patents | Hard | No | | |
+| RE | Hard | No | | |
+| ForwardSlash | Hard | No | | |
+| Spider | Hard | No | | |
+| Helpline | Hard | No | | |
+| Fulcrum | Insane | No | | |
 
 ### Other Resources
 ---
@@ -97,3 +57,5 @@
 **XXE Prevention**
 - 
 #
+**Other**
+- [YouTube - Stok Blind XXS Out-of-Bounds over DNS using PDF](https://www.youtube.com/watch?v=aSiIHKeN3ys)
