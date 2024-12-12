@@ -27,26 +27,26 @@
 | Waldo | Medium | No | | Directory Traversal |
 | UpDown | Medium | No | | LFI |
 | Unicode | Medium | No | | LFI |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| Unattended | Medium | No | | LFI / Diretory Traversal |
+| Trick | Easy | No | | LFI |
+| Topology | Easy | No | | LFI / Diretory Traversal |
+| Timing | Medium | No | | LFI |
+| TartarSauce | Medium | No | | RFI |
+| Tabby | Easy | No | | LFI |
+| StreamIO | Medium | No | | LFI / RFI |
+| Stocker | Easy | No | | Directory Traversal |
+| Spooktrol | Hard | No | | Directory Traversal |
+| Snoopy | Hard | No | | LFI |
+| Sniper | Medium | No | | LFI / RFI |
+| Smasher | Insane | No | | LFI |
+| Seventeen | Hard | No | | LFI |
+| ServMon | Easy | No | | LFI  |
+| Response | Insane | No | | LFI |
+| Resource | Medium | No | | LFI |
+| Repetitive | Easy | No | | Diretory Traversal |
+| Reel2 | Hard | No | | Diretory Traversal |
+| RE | Hard | No | | Diretory Traversal |
+| Proper | Hard | No | | RFI |
 | | | | | |
 | | | | | |
 | | | | | |
