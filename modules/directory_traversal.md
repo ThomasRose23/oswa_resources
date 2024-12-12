@@ -47,41 +47,60 @@
 | Reel2 | Hard | No | | Diretory Traversal |
 | RE | Hard | No | | Diretory Traversal |
 | Proper | Hard | No | | RFI |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| Pollution | Hard | No | | LFI |
+| Poison | Medium | No | | LFI |
+| Player | Hard | No | | LFI |
+| Pilgrimage | Easy | No | | LFI |
+| PikaTwoo | Insane | No | | LFI |
+| Pikaboo | Hard | No | | LFI |
+| Patents | Hard | No | | LFI |
+| Paper | Easy | No | | Directory Traversal |
+| OverGraph | Hard | No | | LFI |
+| OpenSource | Easy | No | | Directory Traversal |
+| OpenAdmin | Easy | No | | LFI / Directory Traversal |
+| OnlyForYou | Medium | No | | LFI |
+| Nineveh | Medium | No | | LFI |
+| Monitors | Hard | No | | LFI |
+| Moderators | Hard | No | | LFI |
+| Mailing | Easy | No | | DIrectory Traversal |
+| Llama | Easy | No | | LFI |
+| LaCasaDePapel | Easy | No | | LFI |
+| Laboratory | Easy | No | | Directory Traversal |
+| Intuition | Hard | No | | LFI |
+| Inject | Easy | No | | LFI |
+| Haystack | Easy | No | | LFI |
+| GreenHorn | Easy | No | | RFI |
+| Ghoul | Hard | No | | Directory Traversal |
+| GetLab | Very Easy | No | | Directory Traversal |
+| Gem | Easy | No | | LFI |
+| FriendZone | Easy | No | | LFI |
+| ForwardSlash | Hard | No | | LFI / Directory Traversal |
+| FormulaX | Hard | No | | LFI |
+| Format | Medium | No | | LFI |
+| Flight | Hard | No | | RFI |
+| Fingerprint | Insane | No | | LFI / Directory Traversal |
+| Fatty | Insane | No | | Directory Traversal |
+| Faculty | Medium | No | | LFI |
+| Encoding | Medium | No | | LFI |
+| EarlyAccess | Hard | No | | Directory Traversal |
+| Download | Hard | No | | LFI |
+| Devzat | Medium | No | | LFI |
+| DevOps | Medium | No | | LFI |
+| Cybermonday | Hard | No | | LFI |
+| CrimeStoppers | Medium | No | | LFI |
+| Clicker | Hard | No | | Directory Traversal |
+| Cerberus | Medium | No | | LFI |
+| BroScience | Hard | No | | LFI |
+| Breadcrumbs | Insane | No | | Directory Traversal |
+| Bookworm | Easy | No | | LFI |
+| Blunder | Insane | No | | Directory Traversal |
+| BigHead | Easy | No | | LFI |
+| Beep | Medium | No | | LFI |
+| Bagel | Easy | No | | LFI |
+| Backdoor | Easy | No | | Directory Traversal |
+| Awkward | Medium | No | | LFI |
+| Archive | Easy | No | | Directory Traversal |
+| Ambassador | Medium | No | | Directory Traversal |
 
 ### Other Resources
 ---
