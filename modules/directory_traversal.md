@@ -22,7 +22,7 @@
 
 | Machine Name | Difficulty | Verified Directory Traversal | WriteUp | Comments |
 | -- | -- | -- | -- | -- |
-| GetLab | Very Easy | No | | Directory Traversal |
+| GetLab | Very Easy | No | [My Writeup](https://github.com/ThomasRose23/htb_writeups/blob/main/boxes/getlab.md) | Directory Traversal - Involves manual directory traversal if you avoid the public exploit. |
 | Archive | Easy | No | | Directory Traversal |
 | Trick | Easy | No | | LFI |
 | Topology | Easy | No | | LFI / Diretory Traversal |
