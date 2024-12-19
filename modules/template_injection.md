@@ -8,11 +8,11 @@
 **Courses**
 
 *Free*
-- [PortSwigger Academy - 
+- [PortSwigger Academy - Server-Side Template Injection](https://portswigger.net/web-security/server-side-template-injection)
 
 *Paid*
-- [HTB - 
-- [THM - 
+- [HTB - Server-Side Attacks](https://academy.hackthebox.com/course/preview/server-side-attacks)
+- [THM - Server-Side Template Injection](https://tryhackme.com/r/hacktivities/search?page=1&kind=all&searchText=server+side+temp)
 
 #
 
@@ -27,13 +27,14 @@
 ### Other Resources
 ---
 **PT Guides**
-- 
+- [HackTricks SSTI](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
+- [Hacker Recipes - Server-Sie Template Injection](https://www.thehacker.recipes/web/inputs/ssti#%F0%9F%9B%A0%EF%B8%8F-ssti-server-side-template-injection)
 #
 **Bug Bounty Write Ups**
 - 
 #
 **Methodologies**
-- 
+- [OWASP Methodology - Server Side Template Injection](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/18-Testing_for_Server-side_Template_Injection)
 #
 **[Arsenal](https://github.com/Orange-Cyberdefense/arsenal/tree/master) Tool Cheatsheets**
 - 
