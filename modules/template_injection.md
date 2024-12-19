@@ -21,7 +21,25 @@
 
 | Machine Name | Difficulty | Verified Directory Traversal | WriteUp | Comments |
 | -- | -- | -- | -- | -- |
-| | | | | |
+| Smart | Easy | | | |
+| Red Panda | Easy | | | |
+| Perfection | Easy | | | |
+| Nunchucks | Easy | | | |
+| Late | Easy | | | |
+| Doctor | Easy | | | |
+| Crushed | Easy | | | |
+| Art | Easy | | | |
+| Bolt | Medium | | | |
+| Gobox | Medium | | | |
+| GoodGames | Medium | | | |
+| Flustered | Medium | | | |
+| Epsilon | Medium | | | |
+| Sandworm | Medium | | | |
+| Talkative | Hard | | | |
+| Hancliffe | Hard | | | |
+| OverGraph | Hard | | | |
+| Spider | Hard | | | |
+| Oz | Hard | | | |
 
 
 ### Other Resources
