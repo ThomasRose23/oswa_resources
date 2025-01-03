@@ -21,7 +21,7 @@
 
 | Machine Name | Difficulty | Verified Directory Traversal | WriteUp | Comments |
 | -- | -- | -- | -- | -- |
-| BountyHunter | Easy | No | | |
+| BountyHunter | Easy | Yes  | [Write Up](https://github.com/ThomasRose23/htb_writeups/blob/main/boxes/bountyhunter.md) | Requires XML and XXE knowledge, great for manual practice. |
 | RedPanda | Easy | No | | |
 | NodeBlog | Easy | No | | |
 | MetaTwo | Easy | No | | |
