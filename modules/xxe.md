@@ -8,11 +8,13 @@
 **Courses**
 
 *Free*
-- [PortSwigger Academy - 
+
+- [PortSwigger Academy - XXE](https://portswigger.net/web-security/xxe)
 
 *Paid*
-- [HTB - 
-- [THM - 
+- [HTB - Web Attacks (XXE Subsection)](https://academy.hackthebox.com/course/preview/web-attacks)
+- [HTB - Web Services & API Attacks (XXE Subsection)](https://academy.hackthebox.com/course/preview/web-service--api-attacks)
+- [THM - XXE Injection](https://tryhackme.com/r/room/xxeinjection)
 
 #
 
@@ -46,6 +48,7 @@
 - 
 #
 **Methodologies**
+- [Hacker Recipes - XXE Injection](https://www.thehacker.recipes/web/inputs/xxe-injection/#xxe-injection)
 - 
 #
 **[Arsenal](https://github.com/Orange-Cyberdefense/arsenal/tree/master) Tool Cheatsheets**
