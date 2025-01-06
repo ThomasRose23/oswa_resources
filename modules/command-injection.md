@@ -8,7 +8,6 @@
 **Courses**
 
 *Free*
-- [PortSwigger Academy - 
 - [PortSwigger Academy - Command Injection](https://portswigger.net/web-security/os-command-injection)
 
 *Paid*
