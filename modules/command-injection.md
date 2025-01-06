@@ -113,8 +113,8 @@
 **Wordlists**
 - 
 #
-**Template Injection Prevention**
-- 
+**Command Injection Prevention**
+- [OWASP Command Injection Defence Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/OS_Command_Injection_Defense_Cheat_Sheet.html)
 #
 **Other**
 - 
