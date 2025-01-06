@@ -60,7 +60,7 @@
 **Wordlists**
 - [PATT SSTI Wordlists](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection)
 #
-**XXE Prevention**
+**Template Injection Prevention**
 - 
 #
 **Other**
