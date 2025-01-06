@@ -43,22 +43,21 @@
 ---
 **PT Guides**
 - [PwnFunction YouTube XXE Explained](https://www.youtube.com/watch?v=gjm6VHZa_8s)
-#
-**Bug Bounty Write Ups**
-- 
+- [Hacker Recipes - XXE Injection](https://www.thehacker.recipes/web/inputs/xxe-injection/#xxe-injection)
+- [OWASP - XML External Entity (XXE) Processing](https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing)
+- [HackTricks - XXE & XEE](https://book.hacktricks.wiki/en/pentesting-web/xxe-xee-xml-external-entity.html)
 #
 **Methodologies**
-- [Hacker Recipes - XXE Injection](https://www.thehacker.recipes/web/inputs/xxe-injection/#xxe-injection)
-- 
+- [SWAP Methodology - XXE Injection](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/07-Testing_for_XML_Injection)
 #
 **[Arsenal](https://github.com/Orange-Cyberdefense/arsenal/tree/master) Tool Cheatsheets**
 - 
 #
 **Wordlists**
-- 
+-
 #
 **XXE Prevention**
-- 
+- [OWASP XXE Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.html)
 #
 **Other**
 - [YouTube - Stok Blind XXS Out-of-Bounds over DNS using PDF](https://www.youtube.com/watch?v=aSiIHKeN3ys)
