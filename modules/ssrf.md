@@ -52,10 +52,11 @@
 ### Other Resources
 ---
 **PT Guides**
-- [HackTrciks - Command Injection](https://book.hacktricks.wiki/en/pentesting-web/command-injection.html)
+- [The Hacker Recipes - Server-Side Request Forgery](https://www.thehacker.recipes/web/inputs/ssrf/#ssrf-server-side-request-forgery)
+- [HackTricks - SSRF](https://book.hacktricks.wiki/en/pentesting-web/ssrf-server-side-request-forgery/index.html#ssrf-server-side-request-forgery)
 #
 **Methodologies**
-- [OWASP Methodology - Command Injection](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/12-Testing_for_Command_Injection)
+- [OWASP Methodology - Server-Side Request Forgery](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/19-Testing_for_Server-Side_Request_Forgery)
 #
 **[Arsenal](https://github.com/Orange-Cyberdefense/arsenal/tree/master) Tool Cheatsheets**
 - 
@@ -64,7 +65,7 @@
 - 
 #
 **Command Injection Prevention**
-- [OWASP Command Injection Defence Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/OS_Command_Injection_Defense_Cheat_Sheet.html)
+- [OWASP Server-Side Request Forgery Prevention Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html)
 #
 **Other**
 - 
