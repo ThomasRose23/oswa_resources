@@ -20,40 +20,46 @@
 #### HTB Machines
 *These machines are tagged as containing Server-Side Request Forgery by HTB, the difficulty refers to the box as a whole and not necessarily the Server-Side Request Forgery element.*
 
-| Machine Name | Difficulty | Verified Directory Traversal | WriteUp | Comments |
+| Machine Name | Difficulty | Verified SSRF | WriteUp | Comments |
 | -- | -- | -- | -- | -- |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-
-
+| Travel | Hard | No | | |
+| Writer | Medium | No | | |
+| Slashed | Medium | No | | |
+| Sewers | Medium | No | | |
+| Sau | Easy | No | | |
+| Response | Insane | No | | |
+| Ready | Medium | No | | |
+| Perspective | Insane | No | | |
+| OverGraph | Hard | No | | |
+| OnlyForYou | Medium | No | | |
+| Mailroom | Hard | No | | |
+| Love | Easy | No | | |
+| LogonShell | Very Easy | No | | |
+| Kryptos | Insane | No | | |
+| Laser | Insane | No | | |
+| Kotarak | Hard | No | | |
+| Jarmis | Hard | No | | |
+| Health | Medium | No | | |
+| Identifier | Hard | No | | |
+| Gofer | Hard | No | | | 
+| FordwardSlash | Hard | No | | |
+| Forge | Medium | No | | |
+| Factory | Medium | No | | |
+| Editorial | Easy | No | | |
+| CloudFall | Easy | No | | |
+| Cereal | Hard | No | | |
+| Awkward | Medium | No | | |
+| Appsanity | Hard | No | | |
+| AdmirerToo | Hard | No | | |
 
 ### Other Resources
 ---
 **PT Guides**
 - [The Hacker Recipes - Server-Side Request Forgery](https://www.thehacker.recipes/web/inputs/ssrf/#ssrf-server-side-request-forgery)
 - [HackTricks - SSRF](https://book.hacktricks.wiki/en/pentesting-web/ssrf-server-side-request-forgery/index.html#ssrf-server-side-request-forgery)
+#
+**Bug Bounty Write Ups**
+- [Collection of Write Ups](https://github.com/alexbieber/Bug_Bounty_writeups#sql-injectionsqli)
 #
 **Methodologies**
 - [OWASP Methodology - Server-Side Request Forgery](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/19-Testing_for_Server-Side_Request_Forgery)
@@ -64,7 +70,7 @@
 **Wordlists**
 - 
 #
-**Command Injection Prevention**
+**Server-Side Request Forgert Prevention**
 - [OWASP Server-Side Request Forgery Prevention Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html)
 #
 **Other**
