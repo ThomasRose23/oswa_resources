@@ -22,7 +22,7 @@
 
 | Machine Name | Difficulty | Verified Directory Traversal | WriteUp | Comments |
 | -- | -- | -- | -- | -- |
-| Spark | Very Easy | No | | |
+| Spark | Very Easy | Yes | [My Write Up](https://github.com/ThomasRose23/htb_writeups/blob/main/boxes/spark.md) | There are public exploits and a Metasploit module for this one, but if done manually is good Command Injection practice.  |
 | Prequel | Very Easy | No | | |
 | Enlightenment | Very Easy | No | | |
 | Bashed | Easy | No | | |
