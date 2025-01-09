@@ -8,3 +8,4 @@
 - [Directory Traversal](/modules/directory_traversal.md)
 - [XXE](/modules/xxe.md)
 - [Server Side Template Injection](/modules/template_injection.md)
+- [Server Side Template Injection](/modules/command-injection.md)
