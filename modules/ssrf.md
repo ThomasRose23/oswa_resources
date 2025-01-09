@@ -22,35 +22,35 @@
 
 | Machine Name | Difficulty | Verified SSRF | WriteUp | Comments |
 | -- | -- | -- | -- | -- |
-| Travel | Hard | No | | |
+| LogonShell | Very Easy | No | | |
+| Sau | Easy | No | | |
+| Editorial | Easy | No | | |
+| CloudFall | Easy | No | | |
+| Love | Easy | No | | |
+| Ready | Medium | No | | |
+| OnlyForYou | Medium | No | | |
+| Health | Medium | No | | |
+| Awkward | Medium | No | | |
+| Forge | Medium | No | | |
+| Factory | Medium | No | | |
 | Writer | Medium | No | | |
 | Slashed | Medium | No | | |
 | Sewers | Medium | No | | |
-| Sau | Easy | No | | |
-| Response | Insane | No | | |
-| Ready | Medium | No | | |
-| Perspective | Insane | No | | |
+| Travel | Hard | No | | |
 | OverGraph | Hard | No | | |
-| OnlyForYou | Medium | No | | |
 | Mailroom | Hard | No | | |
-| Love | Easy | No | | |
-| LogonShell | Very Easy | No | | |
-| Kryptos | Insane | No | | |
-| Laser | Insane | No | | |
 | Kotarak | Hard | No | | |
 | Jarmis | Hard | No | | |
-| Health | Medium | No | | |
 | Identifier | Hard | No | | |
 | Gofer | Hard | No | | | 
 | FordwardSlash | Hard | No | | |
-| Forge | Medium | No | | |
-| Factory | Medium | No | | |
-| Editorial | Easy | No | | |
-| CloudFall | Easy | No | | |
 | Cereal | Hard | No | | |
-| Awkward | Medium | No | | |
 | Appsanity | Hard | No | | |
 | AdmirerToo | Hard | No | | |
+| Response | Insane | No | | |
+| Perspective | Insane | No | | |
+| Kryptos | Insane | No | | |
+| Laser | Insane | No | | |
 
 ### Other Resources
 ---
