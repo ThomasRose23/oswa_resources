@@ -13,6 +13,7 @@
 *Paid*
 - [HTB - Server-Side Attacks](https://academy.hackthebox.com/course/preview/server-side-attacks)
 - [THM - Server-Side Template Injection](https://tryhackme.com/r/hacktivities/search?page=1&kind=all&searchText=server+side+temp)
+- [THM - SSTI](https://tryhackme.com/r/room/learnssti)
 
 #
 
