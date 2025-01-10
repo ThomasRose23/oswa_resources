@@ -23,7 +23,7 @@
 | Machine Name | Difficulty | Verified Directory Traversal | WriteUp | Comments |
 | -- | -- | -- | -- | -- |
 | Spark | Very Easy | Yes | [My Write Up](https://github.com/ThomasRose23/htb_writeups/blob/main/boxes/spark.md) | There are public exploits and a Metasploit module for this one, but if done manually is good Command Injection practice.  |
-| Prequel | Very Easy | No | | |
+| Prequel | Very Easy | Yes | No Write Up | Does not contain manual command injection, involves basic SQL, FTP and password cracking knowledge. |
 | Enlightenment | Very Easy | No | | |
 | Bashed | Easy | No | | |
 | Wind | Easy | No | | |
