@@ -22,8 +22,8 @@
 
 | Machine Name | Difficulty | Verified Directory Traversal | WriteUp | Comments |
 | -- | -- | -- | -- | -- |
-| Smart | Easy | | | |
-| Red Panda | Easy | | | |
+| Smart | Easy | Yes | [My Write Up](https://github.com/ThomasRose23/htb_writeups/blob/main/boxes/smart.md) | |
+| RedPanda | Easy | | | |
 | Perfection | Easy | | | |
 | Nunchucks | Easy | | | |
 | Late | Easy | | | |
