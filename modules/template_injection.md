@@ -22,7 +22,7 @@
 
 | Machine Name | Difficulty | Verified Directory Traversal | WriteUp | Comments |
 | -- | -- | -- | -- | -- |
-| Smart | Easy | Yes | [My Write Up](https://github.com/ThomasRose23/htb_writeups/blob/main/boxes/smart.md) | |
+| Smart | Easy | Yes | [My Write Up](https://github.com/ThomasRose23/htb_writeups/blob/main/boxes/smart.md) | Good box to practice manually finding and exploiting Template Injection. |
 | RedPanda | Easy | | | |
 | Perfection | Easy | | | |
 | Nunchucks | Easy | | | |
