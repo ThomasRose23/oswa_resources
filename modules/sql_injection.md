@@ -2,9 +2,9 @@
 
 # SQL Injection
 
-### Training Resources
+## Training Resources
 ---
-#### Courses
+### Courses
 *Free*
 - [PortSwigger Academy - SQLi](https://portswigger.net/web-security/sql-injection)
 - [PortSwigger Academy - NoSQLi](https://portswigger.net/web-security/nosql-injection)
@@ -24,77 +24,77 @@
 
 #
 
-#### HTB Machines
+### Hack The Box Machines
 *These machines are tagged as containing SQL Injection by HTB, the difficulty refers to the box as a whole and not necessarily the SQL Injection element.*
 
-| Machine Name | Difficulty | Verified SQLi | WriteUp | Comments |
-| -- | -- | -- | -- | -- |
-| Writeup | Easy | Yes | [My Writeup](https://github.com/ThomasRose23/htb_writeups/blob/main/boxes/writeup.md) | Exploits SQL using a known exploit. No SQL knowledge needed. | 
-| Whiskers | Easy | No |
-| Validation | Easy | No |
-| Trick | Easy | No |
-| Toolbox | Easy | No |
-| Better | Easy | No |
-| Stocker | Easy | No |
-| Soccer | Easy | No |
-| Shopper | Easy | No |
-| Rental | Easy | No |
-| Press2Inject | Easy | No |
-| PC | Easy | No |
-| Invalidated | Easy | No |
-| Pandora | Easy | No |
-| NodeBlog | Easy | No |
-| MetaTwo | Easy | No |
-| Library | Easy | No |
-| Jupiter | Medium | No |
-| Jarvis | Medium | No |
-| GoodGames | Medium | No |
-| Monitored | Medium | No |
-| Mango | Medium | No |
-| Magic | Medium | No |
-| Shared | Medium | No |
-| SecNotes | Medium | No |
-| Giddy | Medium | No |
-| Sneaky | Medium | No |
-| Gallery | Medium | No |
-| Faculty | Medium | No |
-| TechPot | Medium | No |
-| RedCross | Medium | No |
-| Socket | Medium | No |
-| Europa | Medium | No |
-| Enterprise | Medium | No |
-| Clicker | Medium | No |
-| Cache | Medium | No |
-| Book | Medium | No |
-| Unrested | Medium | No |
-| Unattended | Medium | No |
-| AI | Medium | No |
-| Zipping | Medium | No |
-| Altered | Hard | No |
-| Proper | Hard | No |
-| Charon | Hard | No |
-| Zeta | Hard | No |
-| Pheonix | Hard | No |
-| Spider | Hard | No |
-| Download | Hard | No |
-| Control | Hard | No |
-| EarlyAccess | Hard | No |
-| Formula | Hard | No |
-| Seventeed | Hard | No |
-| OverGraph | Hard | No |
-| Oz | Hard | No |
-| FluJab | Hard | No |
-| Watch | Hard | No |
-| Falafel | Hard | No |
-| Intentions | Hard | No |
-| Intense | Hard | No |
-| Holiday | Hard | No |
-| Monitors | Hard | No |
-| Nightmare | Insane | No |
-| Multimaster | Insane | No |
-| BankRobber | Insane | No |
-| Fatty | Insane | No |
-| Rabit | Insane | No |
+| Machine Name | Difficulty | Completed |
+| -- | -- | -- |
+| Writeup | Easy | |
+| Whiskers | Easy | |
+| Validation | Easy | |
+| Trick | Easy | |
+| Toolbox | Easy | |
+| Better | Easy | |
+| Stocker | Easy | |
+| Soccer | Easy | |
+| Shopper | Easy | |
+| Rental | Easy | |
+| Press2Inject | Easy | |
+| PC | Easy | |
+| Invalidated | Easy | |
+| Pandora | Easy | |
+| NodeBlog | Easy | |
+| MetaTwo | Easy | |
+| Library | Easy | |
+| Jupiter | Medium | |
+| Jarvis | Medium | |
+| GoodGames | Medium | |
+| Monitored | Medium | |
+| Mango | Medium | |
+| Magic | Medium | |
+| Shared | Medium | |
+| SecNotes | Medium | |
+| Giddy | Medium | |
+| Sneaky | Medium | |
+| Gallery | Medium | |
+| Faculty | Medium | |
+| TechPot | Medium | |
+| RedCross | Medium | |
+| Socket | Medium | |
+| Europa | Medium | |
+| Enterprise | Medium | |
+| Clicker | Medium | |
+| Cache | Medium | |
+| Book | Medium | |
+| Unrested | Medium | |
+| Unattended | Medium | |
+| AI | Medium | |
+| Zipping | Medium | |
+| Altered | Hard | |
+| Proper | Hard | |
+| Charon | Hard | |
+| Zeta | Hard | |
+| Pheonix | Hard | |
+| Spider | Hard | |
+| Download | Hard | |
+| Control | Hard | |
+| EarlyAccess | Hard | |
+| Formula | Hard | |
+| Seventeed | Hard | |
+| OverGraph | Hard | |
+| Oz | Hard | |
+| FluJab | Hard | |
+| Watch | Hard | |
+| Falafel | Hard | |
+| Intentions | Hard | |
+| Intense | Hard | |
+| Holiday | Hard | |
+| Monitors | Hard | |
+| Nightmare | Insane | |
+| Multimaster | Insane | |
+| BankRobber | Insane | |
+| Fatty | Insane | |
+| Rabit | Insane | |
 
 ### Other Resources
 ---
@@ -120,3 +120,5 @@
 **SQL Prevention**
 - [OWASP SQL Injection Prevention](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
 #
+
+
