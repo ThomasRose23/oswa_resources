@@ -112,12 +112,12 @@
 #
 **Wordlists**
 - [SecLists - Command Injection Commix](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/command-injection-commix.txt)
+- [Quick Command Injection Check](https://github.com/ThomasRose23/Wordlists_and_Payloads/blob/main/Web_App/simple_command_injection)
+- [Quick Blind Command Injection Check](https://github.com/ThomasRose23/Wordlists_and_Payloads/blob/main/Web_App/simple_blind_command_injection)
 #
 **Command Injection Prevention**
 - [OWASP Command Injection Defence Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/OS_Command_Injection_Defense_Cheat_Sheet.html)
 #
-**Other**
-- 
 
 
 ## Condensed Notes
