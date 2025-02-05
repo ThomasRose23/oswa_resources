@@ -77,8 +77,11 @@ This is a condensed version of the notes I used during OSWA and are by no means 
   - URLs in hidden form fields
   - A partial URL, eg. a URL parameter requesting a subdomain by just the subdomain name. ?sub=api requests api.site.com. 
   - A file path included somewhere eg. URL.
-- Once identified, try to connect back to a web server on an attack machine
+- Once identified, try to connect back to a web server on an attack machine using the input.
 - Try to access files internal on the target machine using non-http protocols such as file:///etc/passwd
+```bash
+https://target-server.com/index.php?file:///empty/hostname/web
+```
 -  Can you get the server to perform actions using POST requests, consider researching and using Gopher for this, example basic Gopher payload:
   ```bash
 curl gopher://127.0.0.1:80/_POST%20/status%20HTTP/1.1%0a
