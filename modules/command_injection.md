@@ -2,10 +2,10 @@
 
 # Command Injection
 
-### Training Resources
+## Training Resources
 ---
 
-**Courses**
+### Courses
 
 *Free*
 - [PortSwigger Academy - Command Injection](https://portswigger.net/web-security/os-command-injection)
@@ -17,7 +17,7 @@
 
 #
 
-#### HTB Machines
+### HTB Machines
 *These machines are tagged as containing Template Injection by HTB, the difficulty refers to the box as a whole and not necessarily the Template Injection element.*
 
 | Machine Name | Difficulty | Verified Directory Traversal | WriteUp | Comments |
@@ -118,3 +118,8 @@
 #
 **Other**
 - 
+
+
+## Condensed Notes
+- Identify inputs into the application accepting alphanumeric characters. Look for functionality likely to be suceptible to command injection, such as:
+  - Converting media files
