@@ -15,11 +15,11 @@
 - [HTB - Advanced SQL Injections](https://academy.hackthebox.com/course/preview/advanced-sql-injections)
 - [HTB - MSSQL, Exchange, and SCCM Attacks](https://academy.hackthebox.com/course/preview/mssql-exchange-and-sccm-attacks)
 - [HTB - Introduction to NoSQL Injection](https://academy.hackthebox.com/course/preview/introduction-to-nosql-injection)
-- [HTB - SQLMap Essentials](https://academy.hackthebox.com/course/preview/sqlmap-essentials) - Not allowed in the exam but good to know.
+- [HTB - SQLMap Essentials](https://academy.hackthebox.com/course/preview/sqlmap-essentials)
 - [THM - SQL Fundamentals](https://tryhackme.com/r/room/sqlfundamentals)
 - [THM - SQL Injection](https://tryhackme.com/r/room/sqlinjectionlm)
 - [THM - Advanced SQL Injection](https://tryhackme.com/r/room/advancedsqlinjection)
-- [THM - SQLMap: The Basics](https://tryhackme.com/r/room/sqlmapthebasics) - Not allowed in the exam but good to know.
+- [THM - SQLMap: The Basics](https://tryhackme.com/r/room/sqlmapthebasics)
 - [THM - SQL Injection Lab](https://tryhackme.com/r/room/sqlilab)
 
 #
