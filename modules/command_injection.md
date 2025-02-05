@@ -17,8 +17,8 @@
 
 #
 
-### HTB Machines
-*These machines are tagged as containing Template Injection by HTB, the difficulty refers to the box as a whole and not necessarily the Template Injection element.*
+### Hack The Box Machines
+*These machines are tagged as containing Command Injection by HTB, the difficulty refers to the box as a whole and not necessarily the Command Injection element.*
 
 | Machine Name | Difficulty | Completed |
 | -- | -- | -- |
@@ -106,9 +106,6 @@
 #
 **Methodologies**
 - [OWASP Methodology - Command Injection](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/07-Input_Validation_Testing/12-Testing_for_Command_Injection)
-#
-**[Arsenal](https://github.com/Orange-Cyberdefense/arsenal/tree/master) Tool Cheatsheets**
-- 
 #
 **Wordlists**
 - [SecLists - Command Injection Commix](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/command-injection-commix.txt)
