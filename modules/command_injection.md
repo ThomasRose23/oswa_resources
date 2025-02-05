@@ -121,5 +121,20 @@
 
 
 ## Condensed Notes
-- Identify inputs into the application accepting alphanumeric characters. Look for functionality likely to be suceptible to command injection, such as:
+This is a condensed version of the notes I used during OSWA and are by no means complete. Make your own notes and methodology, building off these basic steps. 
+
+- Understand the OS you're attacking.
+- Identify inputs into the application accepting alphanumeric characters. Look for functionality that could interact with the OS and likely to be suceptible to command injection, such as:
   - Converting media files
+  - File archiving
+  - Making backups
+  - Anything using non-web protocols
+- Determine if we can view the response to any injection attempt, if not test for blind command injection  
+- Manually test by entering payloads into potentially vulnerable fields
+  - Try delimeters (|| && ; \n) and see if there are errors produced.
+  - Try blind injection payloads such as
+```bash
+;time+20;
+;curl+http://ip:port/path;
+```
+- Commix is a tool than can automate the finding of Command Injection vulnerabilities, very similar to SQLMap and easy to use. Basic usage can be seen below but read the docs for more control. 
