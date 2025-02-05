@@ -148,3 +148,6 @@ wfuzz -c -z file,<path-to-wordlist> -u "http://site.com/index.php?id=FUZZ"
 
 wfuzz -c -z file,<path-to-wordlist> -u "http://site.com/index.php" -d "id=FUZZ"
 ```
+- Once you have confirmed command injection:
+  - Enumerate the target for sensitive data
+  - Escalate to Remote Code Execution
