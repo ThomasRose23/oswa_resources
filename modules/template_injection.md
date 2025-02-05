@@ -21,7 +21,7 @@
 *These machines are tagged as containing Template Injection by HTB, the difficulty refers to the box as a whole and not necessarily the Template Injection element.*
 
 | Machine Name | Difficulty | Completed |
-| -- | -- | -- | -- | -- |
+| -- | -- | -- |
 | Smart | Easy | |
 | RedPanda | Easy | |
 | Perfection | Easy | |
