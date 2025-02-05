@@ -20,83 +20,83 @@
 ### HTB Machines
 *These machines are tagged as containing Template Injection by HTB, the difficulty refers to the box as a whole and not necessarily the Template Injection element.*
 
-| Machine Name | Difficulty | Verified Directory Traversal | WriteUp | Comments |
-| -- | -- | -- | -- | -- |
-| Spark | Very Easy | Yes | [My Write Up](https://github.com/ThomasRose23/htb_writeups/blob/main/boxes/spark.md) | There are public exploits and a Metasploit module for this one, but if done manually is good Command Injection practice.  |
-| Prequel | Very Easy | Yes | No Write Up | Does not contain manual command injection, involves basic SQL, FTP and password cracking knowledge. |
-| Enlightenment | Very Easy | No | | |
-| Bashed | Easy | No | | |
-| Wind | Easy | No | | |
-| Spectra | Easy | No | | |
-| TwoMillion | Easy | No | | |
-| Secret | Easy | No | | |
-| ScriptKiddie | Easy | No | | |
-| RouterSpace | Easy | No | | |
-| Referrals | Easy | No | | |
-| Optimum | Easy | No | | |
-| OpenAdmin | Easy | No | | |
-| Previse | Easy | No | | |
-| Photobomb | Easy | No | | |
-| Headless | Easy | No | | |
-| Haystack | Easy | No | | |
-| Sea | Easy | No | | |
-| Sau | Easy | No | | |
-| Liberty | Easy | No | | |
-| Flipper | Easy | No | | |
-| Click | Easy | No | | |
-| Networked | Easy | No | | |
-| WindHose | Medium | No | | |
-| Union | Medium | No | | |
-| Sewers | Medium | No | | |
-| RedCross | Medium | No | | |
-| Meta | Medium | No | | |
-| Mentor | Medium | No | | |
-| Jarvis | Medium | No | | |
-| Investigation | Medium | No | | |
-| Haircut | Medium | No | | |
-| FluxCapacitor | Medium | No | | |
-| Feldspar | Medium | No | | |
-| Extension | Medium | No | | |
-| EvilCUPS | Medium | No | | |
-| Europa | Medium | No | | |
-| Dynstr | Medium | No | | |
-| Droider | Medium | No | | |
-| Cronos | Medium | No | | |
-| Craft | Medium | No | | |
-| Carrier | Medium | No | | |
-| Catch | Medium | No | | |
-| Bastard | Medium | No | | |
-| Awkward | Medium | No | | |
-| AI | Medium | No | | |
-| Monitors | Hard | No | | |
-| Visor | Hard | No | | |
-| Admirer | Hard | No | | |
-| Charon | Hard | No | | |
-| EarlyAccess | Hard | No | | |
-| Cup | Hard | No | | |
-| Formula | Hard | No | | |
-| FormulaX | Hard | No | | |
-| Identifier | Hard | No | | |
-| Holiday | Hard | No | | |
-| Helpline | Hard | No | | |
-| Mailroom | Hard | No | | |
-| Phoenix | Hard | No | | |
-| Oouch | Hard | No | | |
-| Spooktrol | Hard | No | | |
-| Stacked | Insane | No | | |
-| Sekhmet | Insane | No | | |
-| Reddish | Insane | No | | |
-| Perspective | Insane | No | | |
-| Multimaster | Insane | No | | |
-| Mischief | Insane | No | | |
-| Hackback | Insane | No | | |
-| Fortune | Insane | No | | |
-| Smasher2 | Insane | No | | |
-| Fingerprint | Insane | No | | |
-| Derailed | Insane | No | | |
-| CrossFit | Insane | No | | |
-| Bankrobber | Insane | No | | |
-| Ariekei | Insane | No | | |
+| Machine Name | Difficulty | Completed |
+| -- | -- | -- |
+| Spark | Very Easy | |
+| Prequel | Very Easy | |
+| Enlightenment | Very Easy | |
+| Bashed | Easy | |
+| Wind | Easy | |
+| Spectra | Easy | |
+| TwoMillion | Easy | |
+| Secret | Easy | |
+| ScriptKiddie | Easy | |
+| RouterSpace | Easy | |
+| Referrals | Easy | |
+| Optimum | Easy | |
+| OpenAdmin | Easy | |
+| Previse | Easy | |
+| Photobomb | Easy | |
+| Headless | Easy | |
+| Haystack | Easy | |
+| Sea | Easy | |
+| Sau | Easy | |
+| Liberty | Easy | |
+| Flipper | Easy | |
+| Click | Easy | |
+| Networked | Easy | |
+| WindHose | Medium | |
+| Union | Medium | |
+| Sewers | Medium | |
+| RedCross | Medium | |
+| Meta | Medium | |
+| Mentor | Medium | |
+| Jarvis | Medium | |
+| Investigation | Medium | |
+| Haircut | Medium | |
+| FluxCapacitor | Medium | |
+| Feldspar | Medium | |
+| Extension | Medium | |
+| EvilCUPS | Medium | |
+| Europa | Medium | |
+| Dynstr | Medium | |
+| Droider | Medium | |
+| Cronos | Medium | |
+| Craft | Medium | |
+| Carrier | Medium | |
+| Catch | Medium | |
+| Bastard | Medium | |
+| Awkward | Medium | |
+| AI | Medium | |
+| Monitors | Hard | |
+| Visor | Hard | |
+| Admirer | Hard | |
+| Charon | Hard | |
+| EarlyAccess | Hard | |
+| Cup | Hard | |
+| Formula | Hard | |
+| FormulaX | Hard | |
+| Identifier | Hard | |
+| Holiday | Hard | |
+| Helpline | Hard | |
+| Mailroom | Hard | |
+| Phoenix | Hard | |
+| Oouch | Hard | |
+| Spooktrol | Hard | |
+| Stacked | Insane | |
+| Sekhmet | Insane | |
+| Reddish | Insane | |
+| Perspective | Insane | |
+| Multimaster | Insane | |
+| Mischief | Insane | |
+| Hackback | Insane | |
+| Fortune | Insane | |
+| Smasher2 | Insane | |
+| Fingerprint | Insane | |
+| Derailed | Insane | |
+| CrossFit | Insane | |
+| Bankrobber | Insane | |
+| Ariekei | Insane | |
 
 
 ### Other Resources
@@ -111,7 +111,7 @@
 - 
 #
 **Wordlists**
-- 
+- [SecLists - Command Injection Commix](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/command-injection-commix.txt)
 #
 **Command Injection Prevention**
 - [OWASP Command Injection Defence Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/OS_Command_Injection_Defense_Cheat_Sheet.html)
@@ -138,4 +138,16 @@ This is a condensed version of the notes I used during OSWA and are by no means 
 ;curl+http://ip:port/path;
 ```
 - Commix is a tool than can automate the finding of Command Injection vulnerabilities, very similar to SQLMap and easy to use. Basic usage can be seen below but read the docs for more control.
+```bash
+python commix.py --url="http://site.com/path/to/vuln/#" --data="id=1&Submit=submit" --cookie="PHPSESSID=nq30op434117mo7o2oe5bl7is4"
+```
 - Use other automated tools to discover Command Injection:
+  - Wfuzz - filter out responses using -hc (response code) and -hh response size
+```bash
+# GET Request
+wfuzz -c -z file,<path-to-wordlist> -u "http://site.com/index.php?id=FUZZ"
+
+# POST Request
+
+wfuzz -c -z file,<path-to-wordlist> -u "http://site.com/index.php" -d "id=FUZZ"
+```
